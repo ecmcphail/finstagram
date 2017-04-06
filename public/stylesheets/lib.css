@@ -3,7 +3,7 @@
 }
 
 body, input {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin: 0;
   color: #244751;
 }
@@ -29,6 +29,8 @@ header {
   overflow: hidden;
   display: flex;
   align-items: baseline;
+  font-size: 4em;
+  margin:0.5em;
 }
 
 header > .login-info {
